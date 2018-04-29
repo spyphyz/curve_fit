@@ -6,6 +6,6 @@ and Astropy (3.0.2) to fit a Gaussian to the emission lines.
 Currently you need to manually isolate a portion of the spectrum with the emission line you are interested in, 
 and subtract the baseline continuum power-law curve fit. 
 
-Also trying out sherpa, powerlaw, and pyspeckit.
+Also trying out sherpa, powerlaw, pyspeckit, and astropy model fit to continuum - these still need variable amounts of work to get them functioning properly. 
 
 It would be nice to figure out how to automate these processes - ?scikit-learn
